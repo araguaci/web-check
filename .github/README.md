@@ -941,14 +941,28 @@ Credit to the following users for contributing to Web-Check
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/brianteeman">
-                    <img src="https://avatars.githubusercontent.com/u/1296369?v=4" width="80;" alt="brianteeman"/>
+                <a href="https://github.com/bolens">
+                    <img src="https://avatars.githubusercontent.com/u/1218380?v=4" width="80;" alt="bolens"/>
                     <br />
-                    <sub><b>Brian Teeman</b></sub>
+                    <sub><b>Michael Bolens</b></sub>
                 </a>
             </td>
 		</tr>
 		<tr>
+            <td align="center">
+                <a href="https://github.com/HeroGamers">
+                    <img src="https://avatars.githubusercontent.com/u/15278940?v=4" width="80;" alt="HeroGamers"/>
+                    <br />
+                    <sub><b>Marcus Sand</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/jinnabaalu">
+                    <img src="https://avatars.githubusercontent.com/u/11784253?v=4" width="80;" alt="jinnabaalu"/>
+                    <br />
+                    <sub><b>Jinna Baalu</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/GreyXor">
                     <img src="https://avatars.githubusercontent.com/u/79602273?v=4" width="80;" alt="GreyXor"/>
@@ -957,10 +971,10 @@ Credit to the following users for contributing to Web-Check
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/bolens">
-                    <img src="https://avatars.githubusercontent.com/u/1218380?v=4" width="80;" alt="bolens"/>
+                <a href="https://github.com/brianteeman">
+                    <img src="https://avatars.githubusercontent.com/u/1296369?v=4" width="80;" alt="brianteeman"/>
                     <br />
-                    <sub><b>Michael Bolens</b></sub>
+                    <sub><b>Brian Teeman</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -970,6 +984,15 @@ Credit to the following users for contributing to Web-Check
                     <sub><b>Vitaly Karasik</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Its-Just-Nans">
+                    <img src="https://avatars.githubusercontent.com/u/56606507?v=4" width="80;" alt="Its-Just-Nans"/>
+                    <br />
+                    <sub><b>n4n5</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/robinson">
                     <img src="https://avatars.githubusercontent.com/u/237874?v=4" width="80;" alt="robinson"/>
@@ -991,8 +1014,6 @@ Credit to the following users for contributing to Web-Check
                     <sub><b>Ulises Gascón</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/PhiRequiem">
                     <img src="https://avatars.githubusercontent.com/u/1323576?v=4" width="80;" alt="PhiRequiem"/>
@@ -1014,6 +1035,8 @@ Credit to the following users for contributing to Web-Check
                     <sub><b>Murray Christopherson</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/t3chn0m4g3">
                     <img src="https://avatars.githubusercontent.com/u/4318452?v=4" width="80;" alt="t3chn0m4g3"/>
@@ -1035,8 +1058,6 @@ Credit to the following users for contributing to Web-Check
                     <sub><b>Ikko Eltociear Ashimine</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Gertje823">
                     <img src="https://avatars.githubusercontent.com/u/36937387?v=4" width="80;" alt="Gertje823"/>
@@ -1051,6 +1072,15 @@ Credit to the following users for contributing to Web-Check
                     <sub><b>Ed Preston</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/dimitri-kandassamy">
+                    <img src="https://avatars.githubusercontent.com/u/21193806?v=4" width="80;" alt="dimitri-kandassamy"/>
+                    <br />
+                    <sub><b>Dimitri Kandassamy</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/0xflotus">
                     <img src="https://avatars.githubusercontent.com/u/26602940?v=4" width="80;" alt="0xflotus"/>
@@ -1072,24 +1102,10 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
 	<tbody>
 		<tr>
             <td align="center">
-                <a href="https://github.com/github">
-                    <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="80;" alt="github"/>
-                    <br />
-                    <sub><b>GitHub</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/koconder">
                     <img src="https://avatars.githubusercontent.com/u/25068?u=582657b23622aaa3dfe68bd028a780f272f456fa&v=4" width="80;" alt="koconder"/>
                     <br />
                     <sub><b>Vincent Koc</b></sub>
-                </a>
-            </td>
-            <td align="center">
-                <a href="https://github.com/Admonstrator">
-                    <img src="https://avatars.githubusercontent.com/u/69824?u=1e226d7a36cdd661c3e4cd486fea140d045b7d57&v=4" width="80;" alt="Admonstrator"/>
-                    <br />
-                    <sub><b>Aaron Viehl</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -1113,8 +1129,6 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
                     <sub><b>Shrippen</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/bile0026">
                     <img src="https://avatars.githubusercontent.com/u/5022496?u=aec96ad173c0ea9baaba93807efa8a848af6595c&v=4" width="80;" alt="bile0026"/>
@@ -1129,6 +1143,8 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
                     <sub><b>Ulises Gascón</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/digitalarche">
                     <img src="https://avatars.githubusercontent.com/u/6546135?u=564756d7f44ab2206819eb3148f6d822673f5066&v=4" width="80;" alt="digitalarche"/>
@@ -1157,8 +1173,6 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
                     <sub><b>Brian McGonagill</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/vlad-tim">
                     <img src="https://avatars.githubusercontent.com/u/11474041?u=eee43705b54d2ec9f51fc4fcce5ad18dd17c87e4&v=4" width="80;" alt="vlad-tim"/>
@@ -1173,6 +1187,8 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
                     <sub><b>HeliXZz</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/patvdv">
                     <img src="https://avatars.githubusercontent.com/u/12430107?u=e8911c2fb91af4d30432f76da8c40927b2830bd7&v=4" width="80;" alt="patvdv"/>
@@ -1201,8 +1217,6 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
                     <sub><b>Forward Email - Open-source & Privacy-focused Email Service (2023)</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Bastii717">
                     <img src="https://avatars.githubusercontent.com/u/53431819?u=604977bed6ad6875ada890d0d3765a4cacc2fa14&v=4" width="80;" alt="Bastii717"/>
@@ -1217,6 +1231,8 @@ Huge thanks to these wonderful people, who sponsor me on GitHub, their support h
                     <sub><b>Umbrel</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/M2TD">
                     <img src="https://avatars.githubusercontent.com/u/85460457?v=4" width="80;" alt="M2TD"/>
